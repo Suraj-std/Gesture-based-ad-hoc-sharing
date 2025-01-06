@@ -69,12 +69,6 @@ The **Gesture-Based File Sharing System** utilises computer vision, gesture reco
      - **Pinch Gesture**: Acts as server.
      - **Open Hand Gesture**: Acts as client.
 
-## 📸 Screenshots
-### Server in Action
-![Server in Action](https://via.placeholder.com/400x200.png?text=Server+Running)
-### Client Receiving File
-![Client Receiving File](https://via.placeholder.com/400x200.png?text=Client+Receiving+File)
-
 ## 🔒 Security Highlights
 - **Ad-Hoc Network**: Peer-to-peer device connection without external configuration.
 - **Cross-Platform Compatibility**: Works on all major operating systems.
@@ -100,5 +94,5 @@ Contributions are welcome! Follow these steps to get started:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: [mvsuraj2009@gmail.com](mailto:mvsuraj2009@gmail.com)
+- GitHub: [Suraj-std](https://github.com/Suraj-std)
